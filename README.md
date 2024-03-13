@@ -1,5 +1,9 @@
 # Screen-Brightness-Control-through-Hand-Gesture
 
+### Utilizes OS-specific brightness control libraries (win32api, win32con for Windows) to adjust screen brightness.
+
+### Provides a more practical demonstration by actually adjusting screen brightness based on hand gestures.
+
 This Python script utilizes hand tracking with MediaPipe to control screen brightness based on the distance between the thumb tip and the index finger tip. It also provides functionality for adjusting screen brightness using OS-specific brightness control libraries.
 
 Here's a breakdown of the script:
